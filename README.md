@@ -97,7 +97,7 @@ A task management app with clean UI, focused flow, and structured task handling.
 </td>
 <td width="50%" valign="top">
 
-**◇ E-COMMERCE**
+**◇ E-TUTOR**
 An online course website 
 you can learn with expert anytime, anywhere. .
 <br/><br/>
