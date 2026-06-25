@@ -82,8 +82,8 @@
 
 <div align="center">
 
-| | |
-|---|---|
+|                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://github-readme-stats.vercel.app/api?username=assfar35-stack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%"/> | <img src="https://streak-stats.demolab.com?user=assfar35-stack&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="Streak Stats" width="100%"/> |
 
 </div>
@@ -94,11 +94,8 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="https://dribbble.com/YOUR-DRIBBBLE"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/></a>
-<a href="https://www.behance.net/YOUR-BEHANCE"><img src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/ilyas-assfar-350983398/?isSelfProfile=false"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="Assfar35@gamil.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
