@@ -42,15 +42,6 @@
 <td align="center" width="90">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/><b>JavaScript</b>
 </td>
-<td align="center" width="90">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/><br/><b>TypeScript</b>
-</td>
-<td align="center" width="90">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/><br/><b>React</b>
-</td>
-<td align="center" width="90">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/><br/><b>Next.js</b>
-</td>
 </tr>
 <tr>
 <td align="center" width="90">
@@ -58,9 +49,6 @@
 </td>
 <td align="center" width="90">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/><br/><b>Figma</b>
-</td>
-<td align="center" width="90">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="40" height="40" alt="Adobe XD"/><br/><b>Adobe XD</b>
 </td>
 <td align="center" width="90">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop"/><br/><b>Photoshop</b>
