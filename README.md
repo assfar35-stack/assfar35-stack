@@ -98,9 +98,10 @@ A task management app with clean UI, focused flow, and structured task handling.
 <td width="50%" valign="top">
 
 **◇ E-COMMERCE**
-An e-commerce cart experience with smooth interactions and a refined product flow.
+An online course website 
+you can learn with expert anytime, anywhere. .
 <br/><br/>
-<a href="https://github.com/assfar35-stack/Ecommerce-cart"><img src="https://img.shields.io/badge/View_Code-0a0a0a?style=for-the-badge&logo=github&logoColor=f5f5f5" /></a>
+<a href="https://github.com/ma44ass/e-tutor"><img src="https://img.shields.io/badge/View_Code-0a0a0a?style=for-the-badge&logo=github&logoColor=f5f5f5" /></a>
 
 </td>
 </tr>
@@ -114,8 +115,8 @@ An e-commerce cart experience with smooth interactions and a refined product flo
 
 <div align="center">
 
-| | |
-|---|---|
+|                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://github-readme-stats.vercel.app/api?username=assfar35-stack&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0a0a0a&icon_color=8a8a8a&text_color=333333&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%"/> | <img src="https://streak-stats.demolab.com?user=assfar35-stack&theme=default&hide_border=true&background=ffffff&stroke=8a8a8a&ring=8a8a8a&fire=8a8a8a&currStreakLabel=0a0a0a&sideLabels=333333&dates=999999" alt="Streak Stats" width="100%"/> |
 
 </div>
