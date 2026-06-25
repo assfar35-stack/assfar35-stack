@@ -31,7 +31,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-EST.%202024-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=8a8a8a&logoColor=white" />
   <img src="https://img.shields.io/badge/-AGADIR,%20MOROCCO-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=8a8a8a&logoColor=white" />
   <img src="https://img.shields.io/badge/-FOCUS%20%7C%20DESIGN%20%2B%20CODE-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=8a8a8a&logoColor=white" />
 </div>
