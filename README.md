@@ -42,11 +42,11 @@
 <td align="center" width="90">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/><b>JavaScript</b>
 </td>
-</tr>
-<tr>
 <td align="center" width="90">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind"/><br/><b>Tailwind</b>
 </td>
+</tr>
+<tr>
 <td align="center" width="90">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/><br/><b>Figma</b>
 </td>
