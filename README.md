@@ -1,5 +1,23 @@
-<!-- Top Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:1E88E5,100:42A5F5&height=220&section=header&text=Assfar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Designer%20%7C%20Crafting%20Clean%20%26%20Modern%20Web%20Experiences&descSize=18&descColor=ffffff&descAlignY=55&animation=fadeIn" />
+<!-- Top Banner — pure inline SVG, no external services -->
+<div align="center">
+  <svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+    <defs>
+      <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#0A66C2"/>
+        <stop offset="50%" stop-color="#1E88E5"/>
+        <stop offset="100%" stop-color="#42A5F5"/>
+      </linearGradient>
+      <path id="wave" d="M0,160 C300,200 600,120 900,160 C1050,180 1150,150 1200,160 L1200,220 L0,220 Z"/>
+    </defs>
+    <rect width="1200" height="220" fill="url(#bg)"/>
+    <path d="M0,120 C200,160 400,80 600,120 C800,160 1000,100 1200,130 L1200,220 L0,220 Z" fill="#ffffff" opacity="0.08"/>
+    <path d="M0,150 C300,190 600,110 900,150 C1050,170 1150,140 1200,150 L1200,220 L0,220 Z" fill="#ffffff" opacity="0.15"/>
+    <text x="600" y="95" text-anchor="middle" font-family="Segoe UI, Roboto, sans-serif" font-size="52" font-weight="700" fill="#ffffff">Assfar</text>
+    <text x="600" y="135" text-anchor="middle" font-family="Segoe UI, Roboto, sans-serif" font-size="20" fill="#ffffff" opacity="0.95">Frontend Designer | Crafting Clean &amp; Modern Web Experiences</text>
+  </svg>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -11,40 +29,93 @@
 
 ### 🛠️ Tech & Design Stack
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Adobe%20XD-FF26BE?style=for-the-badge&logo=adobexd&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="90">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br/><b>HTML5</b>
+</td>
+<td align="center" width="90">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br/><b>CSS3</b>
+</td>
+<td align="center" width="90">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/><b>JavaScript</b>
+</td>
+<td align="center" width="90">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/><br/><b>TypeScript</b>
+</td>
+<td align="center" width="90">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/><br/><b>React</b>
+</td>
+<td align="center" width="90">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/><br/><b>Next.js</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="90">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind"/><br/><b>Tailwind</b>
+</td>
+<td align="center" width="90">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/><br/><b>Figma</b>
+</td>
+<td align="center" width="90">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="40" height="40" alt="Adobe XD"/><br/><b>Adobe XD</b>
+</td>
+<td align="center" width="90">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop"/><br/><b>Photoshop</b>
+</td>
+<td align="center" width="90">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/><b>Git</b>
+</td>
+<td align="center" width="90">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/><br/><b>VSCode</b>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=assfar35-stack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=assfar35-stack&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="Streak Stats" />
-</p>
+<div align="center">
+
+| | |
+|---|---|
+| <img src="https://github-readme-stats.vercel.app/api?username=assfar35-stack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%"/> | <img src="https://streak-stats.demolab.com?user=assfar35-stack&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="Streak Stats" width="100%"/> |
+
+</div>
 
 ---
 
 ### 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://dribbble.com/YOUR-DRIBBBLE"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
-  <a href="https://www.behance.net/YOUR-BEHANCE"><img src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
 
-<!-- Bottom Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:1E88E5,100:42A5F5&height=120&section=footer" />
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://dribbble.com/YOUR-DRIBBBLE"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/></a>
+<a href="https://www.behance.net/YOUR-BEHANCE"><img src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
+<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</div>
+
+---
+
+<!-- Bottom Banner — pure inline SVG -->
+<div align="center">
+  <svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+    <defs>
+      <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#0A66C2"/>
+        <stop offset="50%" stop-color="#1E88E5"/>
+        <stop offset="100%" stop-color="#42A5F5"/>
+      </linearGradient>
+    </defs>
+    <rect width="1200" height="120" fill="url(#bg2)"/>
+    <path d="M0,40 C200,80 400,0 600,40 C800,80 1000,20 1200,50 L1200,120 L0,120 Z" fill="#ffffff" opacity="0.1"/>
+    <path d="M0,60 C300,100 600,30 900,60 C1050,80 1150,50 1200,60 L1200,120 L0,120 Z" fill="#ffffff" opacity="0.18"/>
+  </svg>
+</div>
