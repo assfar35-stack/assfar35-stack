@@ -87,28 +87,20 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**◇ LANDING PAGE**
-A clean conversion-focused landing page built with HTML, CSS & JavaScript.
+**◇ TASK FLOW**
+A task management app with clean UI, focused flow, and structured task handling.
 <br/><br/>
-<a href="https://github.com/assfar35-stack/landing-page"><img src="https://img.shields.io/badge/View_Code-0a0a0a?style=for-the-badge&logo=github&logoColor=f5f5f5" /></a>
+<a href="https://github.com/assfar35-stack/Gestionnaire-de-T-ches"><img src="https://img.shields.io/badge/View_Code-0a0a0a?style=for-the-badge&logo=github&logoColor=f5f5f5" /></a>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**◇ MY BLOG**
-A minimal personal blog with custom theme and responsive layout.
+**◇ E-COMMERCE**
+An e-commerce cart experience with smooth interactions and a refined product flow.
 <br/><br/>
-<a href="https://github.com/assfar35-stack/my_blog"><img src="https://img.shields.io/badge/View_Code-0a0a0a?style=for-the-badge&logo=github&logoColor=f5f5f5" /></a>
-
-</td>
-<td width="33%" valign="top">
-
-**◇ OFFICE PROJECT**
-Internal tooling interface — clean typography and structured layouts.
-<br/><br/>
-<a href="https://github.com/assfar35-stack/office"><img src="https://img.shields.io/badge/View_Code-0a0a0a?style=for-the-badge&logo=github&logoColor=f5f5f5" /></a>
+<a href="https://github.com/assfar35-stack/Ecommerce-cart"><img src="https://img.shields.io/badge/View_Code-0a0a0a?style=for-the-badge&logo=github&logoColor=f5f5f5" /></a>
 
 </td>
 </tr>
