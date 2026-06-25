@@ -92,7 +92,7 @@
 **◇ TASK FLOW**
 A task management app with clean UI, focused flow, and structured task handling.
 <br/><br/>
-<a href="https://github.com/assfar35-stack/Gestionnaire-de-T-ches"><img src="https://img.shields.io/badge/View_Code-0a0a0a?style=for-the-badge&logo=github&logoColor=f5f5f5" /></a>
+<a href="https://github.com/hfdkr/Task_Flow"><img src="https://img.shields.io/badge/View_Code-0a0a0a?style=for-the-badge&logo=github&logoColor=f5f5f5" /></a>
 
 </td>
 <td width="50%" valign="top">
